@@ -1,14 +1,14 @@
-#Linguagens a serem estudadas.
+# Linguagens a serem estudadas.
 
-Ajax
-Bootstrap
-Drupal
-Ionic
-Sass/Less
-Haml/Jade
-AngularJS
+Ajax  
+Bootstrap  
+Drupal  
+Ionic  
+Sass/Less  
+Haml/Jade  
+AngularJS  
 Wordpress
-TypeScript
+TypeScript  
 ReactJS
 XHTML
 Firebug
